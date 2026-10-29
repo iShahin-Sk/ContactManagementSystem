@@ -14,7 +14,8 @@ A simple web application for managing contacts with separate Admin and User pane
 HTML, CSS, JavaScript
 
 ## Live Demo
-[View Project](YOUR_GITHUB_PAGES_LINK)
+https://ishahin-sk.github.io/ContactManagementSystem/
+
 
 ## How to Use
 Open the live demo link in your browser to access the application.
@@ -22,5 +23,4 @@ Open the live demo link in your browser to access the application.
 ## Note
 This project uses browser localStorage and does not require a backend or database.
 
-## Author
-Your Name
+
